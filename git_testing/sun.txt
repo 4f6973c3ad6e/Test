@@ -1,3 +1,23 @@
-Helllo
-How are you?
+Well you've learened the basics: 
+
+#Basic Actions
+
+git init [OPTIONAL NAME] = Initiliases a directory as a repo
+git status = Displays git information about the repo
+git add [FILE] = Adds the file to be staged for a possible commit 
+git commit -m "[COMMENT]" = Allows staged files to be committed to the repo
+git push remote [URL] = Pushes your commits to the master on the remote server.
+git clone [URL] = Clones a repository locally on your system
+
+Key making - Generated from your user account on github.
+	This key allows the pushing of your repo to the remote. 
+
+#Configuration
+
+git config --list = Lists all settings for the current git setup
+git config --global user.name = Changes git username
+git config --global user.email = Changes git email
+
+
+
 
