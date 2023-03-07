@@ -11,7 +11,12 @@
 
 # Revision:
 
+### [ Cryptography ] 
 1. XOR 
+2. HMAC
+3. Counter
+4. Nonce
+5. Origin Authentication 
 
 # Projects:
 
