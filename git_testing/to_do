@@ -1,4 +1,4 @@
-#Research Items:
+# Research Items:
 
 1. Ansible 
 2. Kubernetes
@@ -9,12 +9,16 @@
 7. LXC (Linux Containers) 
 8. PEN 103 - KLR (Kali Linux Revealed)
 
-#Projects:
+# Revision:
+
+1. XOR 
+
+# Projects:
 
 1. Create a basic backup script and a repo for it on github & local
 2. Build an application from the source package (Obsidian)
 
-#Certifications
+# Certifications
 
 1. KLCP (Kali Linux Certified Professional)
 2. OSCP (Offensive Security Certified Professional)
