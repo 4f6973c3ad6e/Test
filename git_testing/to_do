@@ -11,12 +11,26 @@
 
 # Revision:
 
+### [ General Terms ] 
+1. Bastion Host
+2. DAM
+3. WAF WebACL
+
 ### [ Cryptography ] 
 1. XOR 
 2. HMAC
 3. Counter
 4. Nonce
-5. Origin Authentication 
+5. Origin Authentication
+6. RSA
+
+### [ VPN ]
+1. IKEv1 / IKEv2
+
+### [ Protocols ]
+1. HSTS 
+2. SOP
+3. DNSSEC Record Types  
 
 # Projects:
 
