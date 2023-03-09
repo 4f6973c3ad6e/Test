@@ -15,6 +15,18 @@
 1. Bastion Host
 2. DAM
 3. WAF WebACL
+4. PVLAN
+5. Netcat
+6. MSSP (Managed Security Service Provider)
+7. ExifTool
+8. MSA (Measurement System Analysis)
+
+### [ Programs ]
+1. dd
+2. memdump
+3. FTK Imager
+4. WinHex
+5. Autopsy
 
 ### [ Cryptography ] 
 1. XOR 
